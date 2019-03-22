@@ -3,9 +3,9 @@
 set -e 
 
 ####Defining pathways
-toplvl=/Users/franklinfeingold/Desktop/NKI_script
-dcmdir=/Users/franklinfeingold/Desktop/NKI_script/Dicom
-dcm2niidir=/Users/franklinfeingold/Desktop/dcm2niix_3-Jan-2018_mac
+toplvl=/Users/jacketlin/Desktop/test/script
+dcmdir=/Users/jacketlin/Desktop/test/script/Dicom
+dcm2niidir=/Users/jacketlin/Desktop/test/dcm2niix_3-Jan-2018_mac
 #Create nifti directory
 mkdir ${toplvl}/Nifti
 niidir=${toplvl}/Nifti
